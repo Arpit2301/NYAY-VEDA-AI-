@@ -8,6 +8,8 @@ NYAYA VEDA – An AI-powered legal system for case classification, judge allocat
 📌 Current Status: Backend & frontend development in progress
 
 Stay tuned for updates! 
+
+
 🚀![NYAYA VEDA AI Law System- UI](https://github.com/user-attachments/assets/fa5475f3-1ec7-4eb2-9a05-ce351f08d136)
 
 
