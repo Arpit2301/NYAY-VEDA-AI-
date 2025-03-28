@@ -4,6 +4,7 @@ NYAYA VEDA – An AI-powered legal system for case classification, judge allocat
 🚧 Project in Progress 🚧
 
 🔧 Tech Stack: FastAPI, React.js
+
 📌 Current Status: Backend & frontend development in progress
 
 Stay tuned for updates! 
