@@ -1,5 +1,5 @@
-# NYAYA-VEDA-AI- ⚖️
-NYAYA VEDA – An AI-powered legal system for case classification, judge allocation, court scheduling, and backlog management. 🚀⚖️
+# NYAY-VEDA-AI- ⚖️
+NYAY VEDA – An AI-powered legal system for case classification, judge allocation, court scheduling, and backlog management. 🚀⚖️
 
 🚧 Project in Progress 🚧
 
@@ -12,7 +12,7 @@ Stay tuned for updates!
 Our UI Design
 
 
-![NYAYA VEDA AI Law System- UI](https://github.com/user-attachments/assets/fa5475f3-1ec7-4eb2-9a05-ce351f08d136)
+![NYAY VEDA AI Law System- UI](https://github.com/user-attachments/assets/fa5475f3-1ec7-4eb2-9a05-ce351f08d136)
 
 
 
