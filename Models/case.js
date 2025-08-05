@@ -1,5 +1,4 @@
-// models/case.js
-// Sequelize model for Case
+
 export default function (sequelize, DataTypes) {
   const Case = sequelize.define(
     "Case",
