@@ -1,13 +1,43 @@
-import mongoose from "mongoose";
+// models/case.js
+// Sequelize model for Case
+export default function (sequelize, DataTypes) {
+  const Case = sequelize.define(
+    "Case",
+    {
+      id: {
+        type: DataTypes.INTEGER.UNSIGNED,
+        autoIncrement: true,
+        primaryKey: true,
+      },
+      title: {
+        type: DataTypes.STRING(512),
+        allowNull: false,
+      },
+      description: {
+        type: DataTypes.TEXT,
+        allowNull: true,
+      },
+      category: {
+        type: DataTypes.ENUM("Criminal", "Civil", "Family", "Others"),
+        allowNull: false,
+        defaultValue: "Others",
+      },
+      priority: {
+        type: DataTypes.ENUM("High", "Medium", "Low"),
+        allowNull: false,
+        defaultValue: "Medium",
+      },
+      status: {
+        type: DataTypes.ENUM("Pending", "In Progress", "Resolved"),
+        allowNull: false,
+        defaultValue: "Pending",
+      },
+      // foreign key judgeId will be added by association
+    },
+    {
+      tableName: "cases",
+    }
+  );
 
-const caseSchema = new mongoose.Schema({
-  title: { type: String, required: true },
-  description: { type: String, default: "" },
-  category: { type: String, enum: ["Criminal", "Civil", "Family", "Others"], default: "Others" },
-  priority: { type: String, enum: ["High", "Medium", "Low"], default: "Medium" },
-  status: { type: String, enum: ["Pending", "In Progress", "Resolved"], default: "Pending" },
-  judgeAssigned: { type: mongoose.Schema.Types.ObjectId, ref: "Judge", default: null },
-  createdAt: { type: Date, default: Date.now }
-});
-
-export default mongoose.model("Case", caseSchema);
+  return Case;
+}
