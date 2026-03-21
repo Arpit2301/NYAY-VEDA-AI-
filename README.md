@@ -11,8 +11,8 @@ Designed to streamline judicial processes, reduce delays, and optimize workload 
 ---
 
 ## 🔧 Tech Stack
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** FastAPI / Node.js 
+- **Frontend:** React.js, Javascript, Tailwind CSS  
+- **Backend:** Node.js 
 - **Database:** MySQL  
 - **AI/ML:** BERT-based Legal Case Classifier  
 
@@ -28,9 +28,9 @@ Designed to streamline judicial processes, reduce delays, and optimize workload 
 ---
 
 ## 🎨 UI Design Link
-Here’s our  **dashboard UI concept**:
+Here’s our **dashboard UI concept**:
 
-![NYAY VEDA](https://nyay-veda-hub.lovable.app)
+👉 Visit here: https://nyay-veda-hub.lovable.app
 
 
 
