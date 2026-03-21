@@ -27,10 +27,7 @@ Designed to streamline judicial processes, reduce delays, and optimize workload 
 
 ---
 
-## 🎨 UI Design Link
-Here’s our **dashboard UI concept**:
-
-👉 Visit here: https://nyay-veda-hub.lovable.app
+[![NYAY VEDA]([https://your-image-link.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREKqWzCYqwHoKThSo7dCOo8fhBPqYZ-RJR-0aFdqKbAg&s))](https://nyay-veda-hub.lovable.app)
 
 
 
