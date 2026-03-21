@@ -6,7 +6,7 @@ Designed to streamline judicial processes, reduce delays, and optimize workload 
 ---
 
 ## 🚧 Project Status
-**Current:** Backend & frontend development in progress.
+**Current:** Backend development in progress.
 
 ---
 
