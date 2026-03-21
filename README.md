@@ -27,11 +27,10 @@ Designed to streamline judicial processes, reduce delays, and optimize workload 
 
 ---
 
-## 🎨 UI Design
-Here’s our initial **dashboard UI concept**:
+## 🎨 UI Design Link
+Here’s our  **dashboard UI concept**:
 
-![NYAY VEDA Dashboard UI](https://drive.google.com/file/d/1SWtoi21X4YEq3fNr0UB-7xHGXaizkJw5/view)
+![NYAY VEDA Dashboard UI]((https://nyay-veda-hub.lovable.app))
 
-![More Designs](https://drive.google.com/drive/folders/1m6VgEyMkdN2l-0cjG1o0EtkQjIaEDm9P?usp=sharing)
 
 
