@@ -1,4 +1,4 @@
-# NYAY-VEDA-AI ⚖️
+# NYAY-VEDA ⚖️
 
 **NYAY VEDA** – An AI-powered legal system for **case classification**, **judge allocation**, **court scheduling**, and **backlog management**.  
 Designed to streamline judicial processes, reduce delays, and optimize workload distribution. 🚀⚖️  
@@ -29,5 +29,6 @@ Designed to streamline judicial processes, reduce delays, and optimize workload 
 ## 🎨 UI Design Link
 Here’s our **dashboard UI concept**:
 
+Visit Here:
 **🚀 [NYAY Veda](https://nyay-veda-hub.lovable.app)**
 
