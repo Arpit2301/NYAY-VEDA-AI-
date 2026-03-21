@@ -26,8 +26,10 @@ Designed to streamline judicial processes, reduce delays, and optimize workload 
 - **Analytics Dashboard** – Category-wise visualization of case distribution & progress.
 
 ---
+## 🎨 UI Design Link
+Here’s our **dashboard UI concept**:
 
-[![NYAY VEDA]([https://your-image-link.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREKqWzCYqwHoKThSo7dCOo8fhBPqYZ-RJR-0aFdqKbAg&s))](https://nyay-veda-hub.lovable.app)
+[![NYAY VEDA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShJU6h-xgc8MgbVUdV1FcWYRIMXeLK3z3slg&s)](https://nyay-veda-hub.lovable.app)
 
 
 
